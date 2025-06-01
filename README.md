@@ -9,7 +9,7 @@ Bienvenido a mi perfil! Soy desarrollador y me encanta todo lo relacionado con l
   <li>🧠 Actualmente estoy profundizando en SwiftUI, SwiftData y arquitecturas como MVVM </li>
   <li>🎨 Tengo interés por el diseño UI/UX limpio, funcional </li>
   <li>🚀 Me motiva el proceso constante de aprendizaje para seguir creciendo como desarrollador </li>
-  <li>💬 Abierto a charlas sobre desarrollo móvil, nuevas ideas, colaboracione caarlos.srz@protonmail.com </li>
+  <li>💬 Abierto a charlas sobre desarrollo móvil, nuevas ideas, colaboracione <link>caarlos.srz@protonmail.com</link> </li>
 </ul>
 
 ## Contacta conmigo: 
