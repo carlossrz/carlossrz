@@ -23,10 +23,6 @@ Bienvenido a mi perfil! Soy desarrollador y me encanta todo lo relacionado con l
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black">
-</p>
-
-<!-- Línea 2 -->
-<p>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
